@@ -191,6 +191,6 @@ function getBonus(salary: number, scores: string[]) {
 //     ['basketball', 'Kozaski', ['l', 'l', 'l', 'l', 'l', 'l', 'l']]
 // ]
 
-// console.log(main(input))
-
 let test: void = writeFile('input', 'sport')
+
+console.log('Hello')
