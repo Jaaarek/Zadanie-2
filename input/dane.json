@@ -1,0 +1,61 @@
+[
+    {
+        "sport": "football",
+        "name": "Lewandowski",
+        "scores": ["w", "w", "l", "w", "w", "w", "d"]
+    },
+    {
+        "sport": "football",
+        "name": "Podolski",
+        "scores": ["w", "w", "a", "w", "a", "w", "d"]
+    },
+    {
+        "sport": "volleyball",
+        "name": "Kurek",
+        "scores": ["d", "d", "l", "w", "l", "w", "d"]
+    },
+    {
+        "sport": "volleyball",
+        "name": "Burek",
+        "scores": [["d", "d", "l", "w", "l", "w", "d"]]
+    },
+    {
+        "sport": "volleyball",
+        "name": "Dziurek",
+        "scores": ["d", "d", "l", "w", "l", "l", "d"]
+    },
+    {
+        "sport": "volleyball",
+        "name": "Dziurek",
+        "scores": ["d", "d", "l", "w", "w", "w", "d"]
+    },
+    {
+        "sport": "football",
+        "name": "Szczęsny",
+        "scores": ["d", "d", "l", "w", "l", "w", "d"]
+    },
+    {
+        "sport": "football",
+        "nam": "Miesny",
+        "scores": ["d", "d", "l", "w", "l", "w", "d"]
+    },
+    {
+        "sport": "basketball",
+        "name": "Gortat",
+        "scores": ["w", "w", "w", "w", "w", "w", "l"]
+    },
+    {
+        "sport": "basketbal",
+        "name": "Mortat",
+        "scores": ["w", "w", "w", "w", "w", "w", "l"]
+    },
+    {
+        "sport": "basketball",
+        "name": "Kozaski",
+        "scores":  ["l", "l", "l", "l", "l", "l", "l"]
+    },
+    {
+        "sport": "basketball",
+        "name": "Pozaski"
+    }
+]
